@@ -1,0 +1,29 @@
+/* AdminPage.css */
+.sidebar {
+    background-color: #f8f9fa;
+    height: 100vh;
+    padding-top: 20px;
+}
+
+.sidebar .nav-link {
+    color: #333;
+    font-weight: bold;
+}
+
+.sidebar .nav-link.active {
+    color: #007bff;
+}
+
+.card-title {
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+.card-text {
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.table {
+    margin-top: 20px;
+}

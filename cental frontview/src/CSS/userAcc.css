@@ -1,0 +1,27 @@
+.user-info {
+    display: flex;
+    align-items: center;
+  }
+  
+  .bell-icon {
+    font-size: 20px;
+    margin-right: 20px;
+    cursor: pointer;
+  }
+  
+  .user-details {
+    display: flex;
+    align-items: center;
+  }
+  
+  .user-avatar {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+  
+  .user-role {
+    font-size: 14px;
+  }
+  
